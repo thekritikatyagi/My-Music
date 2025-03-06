@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/gokadzev/Musify/raw/master/repository_files/Musify-banner.png" width="100%">
+<img src="https://github.com/thekritikatyagi/My-Music/raw/master/repository_files/Musify-banner.png" width="100%">
 
-# Musify
+# My-Music
 
 Unlock the full potential of music: Stream effortlessly with one app!
 
@@ -90,7 +90,7 @@ Contributions are always welcome. Please read our [contributing guidelines](http
 
 ## Credits
 
-[Musify](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
+[My-Music](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
 
 ---
 
