@@ -45,7 +45,7 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 
 ## Screenshots
 
-| ![Screenshot 1](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/gokadzev/Musify/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg) |
+| ![Screenshot 1](https://raw.githubusercontent.com/thekritikatyagi/My-Music/master/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/thekritikatyagi/My-Music/master/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/thekritikatyagi/My-Music/master/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/thekritikatyagi/My-Music/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg) |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
@@ -97,11 +97,11 @@ Contributions are always welcome. Please read our [contributing guidelines](http
 ## Disclaimer
 
 ```
-Musify does not possess or maintain any association with the songs and other content accessible through the app.
+My-Music does not possess or maintain any association with the songs and other content accessible through the app.
 All songs and other content are the property of their respective owners and are safeguarded by copyright law.
-Musify holds no liability for any copyright infringement or other violations of intellectual property rights
+My-Music holds no liability for any copyright infringement or other violations of intellectual property rights
 that may arise from the use of the songs and other content accessible through the app.
-Musify employs third-party plugins and assumes no responsibility for any harm or damage to the respective owners or
+My-Music employs third-party plugins and assumes no responsibility for any harm or damage to the respective owners or
 any other parties resulting from the utilization of the songs and other content through the third-party plugins.
 By using the app, you consent to utilizing the songs and other content exclusively for personal,
 non-commercial purposes and in accordance with all applicable laws and regulations.
